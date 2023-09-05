@@ -11,5 +11,6 @@
         "ratio": "cpp",
         "tuple": "cpp",
         "variant": "cpp"
-    }
+    },
+    "cmake.configureOnOpen": true
 }
